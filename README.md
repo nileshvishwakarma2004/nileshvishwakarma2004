@@ -5,7 +5,11 @@
 
 
 <p align="center">
-  <img src="./assets/nilesh-3d-banner.png" width="100%" alt="Nilesh Vishwakarma 3D Developer Banner"/>
+  <img
+    src="./assets/nilesh-3d-banner.gif"
+    width="100%"
+    alt="Nilesh Vishwakarma 3D Animated Banner"
+  />
 </p>
 
 <br>
