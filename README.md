@@ -1,1 +1,34 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0f2027,70:203a43,100:2c5364&height=250&section=header&text=Nilesh%20Vishwakarma&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20Learner&descAlignY=60&descSize=20&descColor=ffffff"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+%26+Java+Expert;Open+Source+Contributor;Cybersecurity+%26+Linux+Enthusiast;GSoC+2026+Aspirant;Building+Innovative+Solutions"/> </p> --- ## 🏆 Achievements & Visual Trophies <table align="center" width="100%"> <tr> <td align="center" width="100%"> <b>🔥 Verified Skill Trophies</b><br><br> <img src="https://skillicons.dev/icons?i=git,github,visualstudio,bash,flask,python,java,mysql,c,cpp,html,css,js&perline=13" /> </td> </tr> </table> <table align="center" width="100%"> <tr> <td align="center" width="100%"> <b>📊 Top Language Analytics (Static)</b><br><br> <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,bash,js,flask&theme=dark" /> </td> </tr> </table> - 🌟 **Trophy Case:** Trophies now show verified proficiency in core technologies. - ⚡ **Direct Load:** No api limits, icons load immediately for everyone. --- ## 🚀 Projects Dashboard (Bar Chart Style) <table align="center" width="100%"> <tr> <td width="50%" valign="top"> <h3>👁️ Omni-Eye | Real-time AI</h3> <p>AI Surveillance System using Face Recognition.</p> <code>Python</code> <code>Flask</code> <code>OpenCV</code> <code>SQL</code> </td> <td width="50%" valign="top"> <h3>🛰️ STDAMS | Satellite Monitor</h3> <p>UDHACK 4.0 Hackathon anomaly detection.</p> <code>Python</code> <code>Machine Learning</code> <code>Scikit-Learn</code> <code>DataViz</code> </td> </tr> <tr> <td colspan="2" align="center"> <h3>🍏 Open Food Facts (Open Source)</h3> <p>Active contributor to the world's largest food database. Fixing UI and Backend issues.</p> <code>JavaScript</code> <code>Python</code> <code>C++</code> <code>Documentation</code> </td> </tr> </table> --- ## 🛡️ CyberSec Capabilities (Kali Aero Style) <p align="left"> <img src="https://img.shields.io/badge/Kali-Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-Scanning-green?style=for-the-badge&logo=nmap&logoColor=white"/> </p> - 🔍 **Basic Networking:** Knowledge of Nmap scanning and vulnerability exploration. - 🐧 **Linux Proficiency:** Comfortable in Kali Linux terminal and Bash scripting. - 📂 **Database Mastery:** Writing efficient SQL queries. --- ## 🤝 Let's Connect (Badges & Icons) <p align="center"> <a href="https://www.linkedin.com/in/nileshvishwakarma"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/> </a> &nbsp;&nbsp; <a href="mailto:vishwakarmanilesh7398@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/> </a> &nbsp;&nbsp; <a href="https://github.com/nileshvishwakarma2004"> <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/> </a> </p> --- <p align="center">⭐ <i>“Code. Contribute. Collaborate.”</i></p> esi code ko mast se redesigne kar kr do aur ha mere ko eska examole dikha dena kaise banega
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,70:00F7FF,100:0d1117&height=220&section=header&text=Nilesh%20Vishwakarma&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20%26%20AI%20Enthusiast&descAlignY=62&descSize=18&descColor=ffffff"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer+(MERN+%26+Python);Offensive+Security+%26+Linux+Enthusiast;Building+STDAMS+(AI+Satellite+Threat+Detection);Open+Source+Contributor+%40+OpenFoodFacts;GSoC+2026+Aspirant" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nilesh-vishwakarma-4a6b9a423">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nileshvishwakarma2004">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:vishwakarmanilesh7398@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Quick Terminal Output
+
+```bash
+$ neofetch --user "nileshvishwakarma2004"
+  
+  OS: Kali Linux / Windows 11
+  Host: BCA Tech Innovator & Cybersecurity Researcher
+  Focus: Full-Stack (MERN / Flask), Offensive Security & AI
+  Current Project: STDAMS (Autonomous Satellite Threat Detection)
+  Status: Open to Collaboration & Technical Innovation
