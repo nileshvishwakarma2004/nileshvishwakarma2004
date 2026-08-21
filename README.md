@@ -79,64 +79,85 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
-<table align="center">
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<p align="center">
+  <b>Real-world systems • AI • Automation • Open Source</b>
+</p>
+
+<p align="center">
+  <img
+    src="./assets/featured-projects-3d.png"
+    width="100%"
+    alt="Nilesh Vishwakarma 3D Featured Projects"
+  />
+</p>
+
+<br>
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td align="center" width="50%">
 
 ### 👁️ Omni-Eye
 
-Real-time AI surveillance system focused on computer vision and face recognition.
-
-**Technology**
+Real-time AI surveillance and computer vision system.
 
 `Python` `Flask` `OpenCV` `SQL`
 
-    </td>
+**AI • Computer Vision • Face Recognition**
 
-    <td width="50%" valign="top">
+</td>
+
+<td align="center" width="50%">
 
 ### 🛰️ STDAMS
 
-Satellite monitoring and anomaly detection system using machine learning and data analysis.
+Satellite monitoring and anomaly detection system.
 
-**Technology**
+`Python` `ML` `Scikit-Learn` `DataViz`
 
-`Python` `Machine Learning` `Scikit-Learn` `DataViz`
+**Satellite • Machine Learning • Analytics**
 
-    </td>
+</td>
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
+    <td align="center" width="50%">
 
 ### 🧠 NeelX
 
-AI-powered automation and vision system designed to interact with devices and execute intelligent actions.
+AI-powered device automation and computer vision system.
 
-**Technology**
+`Python` `AI` `OpenCV` `Automation`
 
-`Python` `AI` `Computer Vision` `Automation`
+**AI • Vision • Automation • Devices**
 
-    </td>
+</td>
 
-    <td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🍏 Open Food Facts
+### ♻️ Zero Waste Food
 
-Open-source contribution involving UI, backend improvements and documentation.
+A food-focused web platform designed to help reduce food waste by connecting technology with smarter food management and sustainable practices.
 
-**Technology**
+`JavaScript` `React` `Node.js` `PostgreSQL`
 
-`JavaScript` `Python` `C++` `Documentation`
+**Food Tech • Sustainability • Full Stack • Web Development**
 
-    </td>
+</td>
   </tr>
 </table>
 
----
+<br>
 
+<p align="center">
+  ⭐ <b>More projects coming soon...</b>
+</p>
+
+---
 ## 🛡️ CYBERSECURITY LAB
 
 <p align="center">
