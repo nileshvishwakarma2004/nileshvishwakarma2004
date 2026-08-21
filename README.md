@@ -6,9 +6,9 @@
 
 <p align="center">
   <img
-    src="./assets/nilesh-3d-banner.gif"
+    src="./assets/nilesh-3d-banner.png"
     width="100%"
-    alt="Nilesh Vishwakarma 3D Animated Banner"
+    alt="Nilesh Vishwakarma 3D Developer Banner"
   />
 </p>
 
