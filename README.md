@@ -47,52 +47,12 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      💻
-      <br><br>
-      <b>BUILDING</b>
-      <br><br>
-      Full Stack
-      <br>
-      Applications
-    </td>
-
-    <td align="center" width="25%">
-      🧠
-      <br><br>
-      <b>EXPLORING</b>
-      <br><br>
-      AI
-      <br>
-      Automation
-    </td>
-
-    <td align="center" width="25%">
-      🛡️
-      <br><br>
-      <b>LEARNING</b>
-      <br><br>
-      Cybersecurity
-      <br>
-      Linux
-    </td>
-
-    <td align="center" width="25%">
-      🚀
-      <br><br>
-      <b>CREATING</b>
-      <br><br>
-      Real World
-      <br>
-      Solutions
-    </td>
-  </tr>
-</table>
+| 💻 BUILDING | 🧠 EXPLORING | 🛡️ LEARNING | 🚀 CREATING |
+|:---:|:---:|:---:|:---:|
+| **Full Stack** | **AI** | **Cybersecurity** | **Real World** |
+| Applications | Automation | Linux | Solutions |
 
 ---
-
 ## 🧠 TECH ARSENAL
 
 <p align="center">
