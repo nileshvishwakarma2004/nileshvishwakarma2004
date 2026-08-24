@@ -184,20 +184,9 @@ A food-focused web platform designed to help reduce food waste by connecting tec
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img
-    width="49%"
-    src="./profile/stats.svg"
-    alt="Nilesh GitHub Stats"
-  />
-
-  <img
-    width="49%"
-    src="./profile/top-langs.svg"
-    alt="Nilesh Top Languages"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwakarmanilesh7398-driod&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=90A4AE" alt="Nilesh GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakarmanilesh7398-driod&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=90A4AE" alt="Nilesh Top Languages" />
 </p>
-
----
 ## 🐍 CONTRIBUTION MATRIX
 
 <p align="center">
